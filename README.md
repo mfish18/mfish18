@@ -1,5 +1,6 @@
 ## Hi, I'm Michael!
 💻 Software Engineer | Full-Stack • DevOps • Backend
+
 🚀 Interested in scalable systems, APIs, and applied AI
 
 I am a University of Guelph Computer Science Graduate who is incredibly passionate about learning and building new systems that have a real impact!

@@ -25,9 +25,11 @@ PostgreSQL • MSSQL • Firebase
 ## What I’ve Been Building
 💰 Personal Finance Tracker
 Full-stack app (Vue + Go) with budgeting, analytics, and secure auth
+
 🌱 EcoDrive
 Flutter app for tracking fuel usage and CO₂ emissions using external APIs
 
-📫 Let’s Connect
+
+## 📫 Let’s Connect
 LinkedIn: https://www.linkedin.com/in/mfish18/
 Email: mfish980@gmail.com

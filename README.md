@@ -6,19 +6,19 @@ I am a University of Guelph Computer Science Graduate who is incredibly passiona
 
 ## Tech Stack
 
-# Languages
+### Languages
 Python • Java • TypeScript • JavaScript • C • SQL
 
-# Frontend
+### Frontend
 React • Next.js • Vue • Tailwind CSS
 
-# Backend
+### Backend
 Node.js • Django • Flask • Go • REST APIs
 
-# DevOps / Cloud
+### DevOps / Cloud
 AWS • GCP • Docker • Kubernetes • Terraform • GitHub Actions • Jenkins
 
-# Databases
+### Databases
 PostgreSQL • MSSQL • Firebase
 
 ## What I’ve Been Building

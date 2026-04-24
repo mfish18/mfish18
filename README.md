@@ -1,16 +1,32 @@
-## Hi there 👋
+## Hi, I'm Michael!
+💻 Software Engineer | Full-Stack • DevOps • Backend
+🚀 Interested in scalable systems, APIs, and applied AI
 
-<!--
-**mfish18/mfish18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a University of Guelph Computer Science Graduate who is incredibly passionate about learning and building new systems that have a real impact!
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Languages
+Python • Java • TypeScript • JavaScript • C • SQL
+
+# Frontend
+React • Next.js • Vue • Tailwind CSS
+
+# Backend
+Node.js • Django • Flask • Go • REST APIs
+
+# DevOps / Cloud
+AWS • GCP • Docker • Kubernetes • Terraform • GitHub Actions • Jenkins
+
+# Databases
+PostgreSQL • MSSQL • Firebase
+
+## What I’ve Been Building
+💰 Personal Finance Tracker
+Full-stack app (Vue + Go) with budgeting, analytics, and secure auth
+🌱 EcoDrive
+Flutter app for tracking fuel usage and CO₂ emissions using external APIs
+
+📫 Let’s Connect
+LinkedIn: https://www.linkedin.com/in/mfish18/
+Email: mfish980@gmail.com
